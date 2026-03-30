@@ -80,16 +80,27 @@ DELETE	/blogs/:id	Delete blog
 ```
 📸 Screenshots
 Server Check
+<img width="1280" height="832" alt="start" src="https://github.com/user-attachments/assets/2c5db5d6-5394-4b97-ad15-170f888f6fd1" />
+
 
 Create Blog
+<img width="1280" height="832" alt="add" src="https://github.com/user-attachments/assets/6db95196-d600-48be-8806-849b40869a12" />
+
 
 Get All Blogs
+<img width="1280" height="832" alt="get all" src="https://github.com/user-attachments/assets/5d474b76-79f6-4814-bca3-c13b85f0858a" />
+
 
 Get Blog by ID
+<img width="1280" height="832" alt="get single" src="https://github.com/user-attachments/assets/e9a11529-93e8-44d3-9a1d-7e1f63cfd94c" />
+
 
 Update Blog
+<img width="1280" height="832" alt="update" src="https://github.com/user-attachments/assets/d6254b14-c563-434d-a1cf-409ec7357580" />
 
 Delete Blog
+<img width="1280" height="832" alt="delete" src="https://github.com/user-attachments/assets/969458cc-081e-4a78-ba20-9c4753749047" />
+
 
 ```
 📦 Blog Data Example
